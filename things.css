@@ -1,0 +1,56 @@
+body {
+    background: url(https://www.istanbultravelguide.net/wp-content/uploads/2018/04/sultanahmet-sunset-istanbul-002-1024x774.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100vw;
+}
+
+div {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 5em;
+}
+
+section {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.425);
+    padding: 30px;
+    border-radius: 20px;
+    margin-bottom: 10em;
+    margin-left: 4em;
+    margin-right: 4em;
+}
+
+img {
+    width: 20em;
+    border-radius: 20px;
+}
+
+p {
+    width: 50em;
+    border-radius: 20px;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+button {
+
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.541);
+    border-radius: 10px;
+    position: fixed;
+
+}

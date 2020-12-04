@@ -1,0 +1,37 @@
+body {
+    background: url(https://img.lovepik.com/photo/50108/4102.jpg_wh860.jpg);
+    background-attachment: fixed;
+    background-size: 100vw;
+}
+
+#back{text-decoration: none;
+color: white;
+display: flex;
+justify-content: flex-start;
+padding:10px;
+background-color:rgba(0, 0, 0, 0.541);
+border-radius:10px;
+position: fixed;} 
+
+a{color: white;
+}
+
+section{display: flex;
+justify-content: space-evenly;
+margin-top:5em;
+margin-left:10em;
+margin-right:10em;
+background-color: rgba(0, 0, 0, 0.432);
+padding:30px;
+border-radius: 20px;}
+
+.body{display: flex;
+flex-direction: column;
+
+}
+
+img{width: 20em;
+height: 10;
+border-radius: 10px;}
+p{width: 20em;
+color: white;}
